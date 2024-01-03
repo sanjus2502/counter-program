@@ -1,0 +1,44 @@
+#countLabel{
+    display: block;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Segoe UI';
+
+}
+h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(241, 200, 140);
+    color: white;
+    border-radius: 10px;
+    border-radius: 1;
+    max-width: 50vw;
+    text-align: center;
+    margin-left: 300px;
+    
+}
+#btncontainer{
+    text-align: center;
+    
+}
+.buttons{
+    padding: 10px 20px;
+    font: 1.5em sans-serif;
+    color: burlywood;
+    border-radius: 5px;
+    background-color: bisque;
+    cursor: pointer;
+    transition: background-color 0.25s;
+    
+    
+   
+}
+.buttons:hover{
+    background-color: #000000;
+}
+div{
+    background-image: url("pic.jpeg");
+    background-color: rgb(222, 173, 131);
+    margin: 90px;
+   
+}
